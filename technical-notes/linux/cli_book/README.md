@@ -13,19 +13,19 @@ ___
 
 
 ## Part I: Learning the Shell
-* [[cd, ls, less, & wIldcards]]
-* [[help, aliases]]
-* [[redirection operators]]
-* [[pipelines]] 
-	* [[pipelines#Misc Related Commands|uniq, wc, grep, head/tail, tee]]
-* [[shortcuts, history]]
-* [[echo, expansions, & quoting]]
-* [[permissions, chmod, sudo, & others]]
-* [[processes]]
+* [[1_shell_basics/cd, ls, less, & wIldcards]]
+* [[1_shell_basics/help, aliases]]
+* [[1_shell_basics/redirection operators]]
+* [[1_shell_basics/pipelines]] 
+	* [[1_shell_basics/pipelines#Misc Related Commands|uniq, wc, grep, head/tail, tee]]
+* [[1_shell_basics/shortcuts, history]]
+* [[1_shell_basics/echo, expansions, & quoting]]
+* [[1_shell_basics/permissions, chmod, sudo, & others]]
+* [[1_shell_basics/processes]]
 
 ## Part II: Configuration and the Environment
-* [[environment]]
-* [[vi]]
+* [[2_config_environment/environment]]
+* [[2_config_environment/vi]]
 * 
 
 ## Part III: Common Tasks and Essential Tools
